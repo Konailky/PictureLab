@@ -24,16 +24,16 @@ public class Questions
      * 
      * A3:
      * 1) The row index of the top left corner is 0
-     * 2)
-     * 3)
-     * 4)
-     * 5)
-     * 6)
-     * 7)
+     * 2) The column index of the top left corner is 0
+     * 3) The right most column index is 639
+     * 4) The bottom most row index is 479
+     * 5) Row indices increase from top to bottom
+     * 6) Column indices increase from left to right
+     * 7) Yes, I can see the squares of colors
      * 
-     * 
-     * 
- 
+     * A4:
+     * 1) 
+     *
      * 
      * 
      * 
