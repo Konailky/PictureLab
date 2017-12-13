@@ -31,10 +31,17 @@ public class Questions
      * 6) Column indices increase from left to right
      * 7) Yes, I can see the squares of colors
      * 
-     * A4:
-     * 1) 
-     *
+     * A5:
+     * 1) getPixels2D method is not in Picture.java
+     * 2) Yes, getPixels2D method is in SimplePicture.java
+     * 3) No, it will not compile
+     * 4) Yes, this will compile
+     * 5) Yes, that will compile as well
+     * 6) No, that will not compile
+     * 7) No, that will not compile
      * 
+     * A6:
+     * 1) 
      * 
      * 
      */
