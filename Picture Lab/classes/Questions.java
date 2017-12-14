@@ -40,8 +40,10 @@ public class Questions
      * 6) No, that will not compile
      * 7) No, that will not compile
      * 
-     * A6:
-     * 1) 
+     * A7:
+     * 1) That nested for loop will run 10 * 9 times. So 90 times in total
+     * 2) This nested for loop will run 6 * 15 times. So 90 times in total
+     * 
      * 
      * 
      */
